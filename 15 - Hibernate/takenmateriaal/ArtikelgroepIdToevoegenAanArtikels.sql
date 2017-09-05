@@ -1,0 +1,1 @@
+alter TABLE allesvoordekeuken.artikels ADD COLUMN artikelgroepid INTEGER UNSIGNED NOT NULL

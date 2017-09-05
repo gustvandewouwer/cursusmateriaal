@@ -1,0 +1,1 @@
+ALTER TABLE fietsacademy.docenten ADD COLUMN versie INTEGER UNSIGNED NOT NULL DEFAULT 0;
